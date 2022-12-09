@@ -6,7 +6,7 @@ import 'antd/dist/antd.css'
 import CollectionForm from './Form'
 
 class App extends Component{
-
+    // Url moet veranderd worden naar Http://IPVANSERVER:8080 maar ik krijg mijn server niet te werken
     API_URL="http://localhost:8080"
 
     state = {
